@@ -7,11 +7,6 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 
 자신만의 목표를 세우고, 퀴즈와 함께해보자. **With QU:IZ!**
 
-## Language
-
-- Swift
-
-
 
 ## 실행 화면
 ✔️ With QU:IZ 앱 시작 화면 하단에 있는 PLAY 버튼을 클릭 시 일반 상식 퀴즈와 영단어 외우기 중 자신이 하고싶은 것을 선택할 수 있다.
@@ -24,4 +19,9 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 
 ![image](https://user-images.githubusercontent.com/89003891/178270088-31e44d6e-52b9-4167-b60d-58a906202bc9.png)
 ![image](https://user-images.githubusercontent.com/89003891/178270103-8da511bd-4708-4e3b-9cc6-9cd2c79e6fe6.png)
+
+## Language
+
+- Swift
+
 
