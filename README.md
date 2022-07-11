@@ -1,5 +1,5 @@
 # With QU:IZ
-https://img.icons8.com/ios/250/000000/macbook.png **iOS Project**
+**iOS Project 💻**
 
 
 With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐길 수 있는 앱으로, 누구나 쉽게 활용 가능하다.
