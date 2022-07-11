@@ -13,9 +13,9 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 
 
 ## 기능
+![image](https://user-images.githubusercontent.com/89003891/178269729-18f407f2-e743-4be7-961a-206ec30953d0.png)![image](https://user-images.githubusercontent.com/89003891/178269912-dd741dba-7f93-485a-8368-6e93802e08c4.png)![image](https://user-images.githubusercontent.com/89003891/178269924-4982bdb2-7d00-4a4a-958f-4051378c960b.png)
 
-With QU:IZ 시작 화면
-![image](https://user-images.githubusercontent.com/89003891/178269729-18f407f2-e743-4be7-961a-206ec30953d0.png)
+
 
 
 To get a local copy up and running follow these simple example steps.
