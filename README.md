@@ -1,7 +1,6 @@
 # With-Quiz
 iOS Programming Project
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
