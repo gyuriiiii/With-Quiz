@@ -12,10 +12,15 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 - Swift
 
 
-## 기능
-![image](https://user-images.githubusercontent.com/89003891/178269729-18f407f2-e743-4be7-961a-206ec30953d0.png)![image](https://user-images.githubusercontent.com/89003891/178269912-dd741dba-7f93-485a-8368-6e93802e08c4.png)![image](https://user-images.githubusercontent.com/89003891/178269924-4982bdb2-7d00-4a4a-958f-4051378c960b.png)
+## 실행 화면
+With QU:IZ 시작 화면
 
+![image](https://user-images.githubusercontent.com/89003891/178270031-ed054f77-498f-46f7-bc69-2ba185071744.png)
 
+![image](https://user-images.githubusercontent.com/89003891/178270069-2e4481fd-16e8-4f9d-899e-d07e7a42f2b6.png)
+
+![image](https://user-images.githubusercontent.com/89003891/178270088-31e44d6e-52b9-4167-b60d-58a906202bc9.png)
+![image](https://user-images.githubusercontent.com/89003891/178270103-8da511bd-4708-4e3b-9cc6-9cd2c79e6fe6.png)
 
 
 To get a local copy up and running follow these simple example steps.
