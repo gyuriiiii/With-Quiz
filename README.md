@@ -21,7 +21,9 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 
 ##
 📚 상식 퀴즈
+
 ![image](https://user-images.githubusercontent.com/89003891/178270088-31e44d6e-52b9-4167-b60d-58a906202bc9.png)
 
 📔 영단어 외우기
+
 ![image](https://user-images.githubusercontent.com/89003891/178270103-8da511bd-4708-4e3b-9cc6-9cd2c79e6fe6.png)
