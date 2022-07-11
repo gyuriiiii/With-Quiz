@@ -14,7 +14,8 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 
 
 ## 실행 화면
-:heavy_check_mark: With QU:IZ 앱 시작 화면 하단에 있는 PLAY 버튼을 클릭 시 일반 상식 퀴즈와 영단어 외우기 중에 자신이 하고싶은 것을 선택 
+:white_check_mark: With QU:IZ 앱 시작 화면 하단에 있는 PLAY 버튼을 클릭 시 일반 상식 퀴즈와 영단어 외우기 중에 자신이 하고싶은 것을 선택 
+
 ![image](https://user-images.githubusercontent.com/89003891/178270478-63ca46b6-28a7-4af1-88d8-414b56472ecd.png)
 ![image](https://user-images.githubusercontent.com/89003891/178270491-69036411-4990-4204-9aec-4760b4f307ba.png)
 
