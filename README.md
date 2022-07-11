@@ -1,15 +1,14 @@
-# With-Quiz
-iOS Programming Project
+# With QU:IZ
 
+> iOS Project
+With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐길 수 있는 앱으로, 누구나 쉽게 활용 가능하다.
+바쁜 일상생활 속에서 한 번의 터치로 누구나 쉽게 빠르게 똑똑해질 수 있다.
 
-# Project Name
+자신만의 목표를 세우고, 퀴즈와 함께해보자. With QU:IZ!
 
-> Description the project.
+## 사용언어
 
-
-## Built With
-
-- Major languages
+- Swift
 - Frameworks
 - Technologies used
 
