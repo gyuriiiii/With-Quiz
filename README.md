@@ -12,12 +12,9 @@ With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐
 - Swift
 
 
+
 ## 실행 화면
-With QU:IZ 시작 화면
-
-![image](https://user-images.githubusercontent.com/89003891/178270031-ed054f77-498f-46f7-bc69-2ba185071744.png)
-
-![image](https://user-images.githubusercontent.com/89003891/178270069-2e4481fd-16e8-4f9d-899e-d07e7a42f2b6.png)
+![image](https://user-images.githubusercontent.com/89003891/178270305-5670c5e5-6501-4a33-853c-072eac58f2e6.png)![image](https://user-images.githubusercontent.com/89003891/178270318-440aa129-2f6e-494f-915b-a43c1e5aabd0.png)
 
 ![image](https://user-images.githubusercontent.com/89003891/178270088-31e44d6e-52b9-4167-b60d-58a906202bc9.png)
 ![image](https://user-images.githubusercontent.com/89003891/178270103-8da511bd-4708-4e3b-9cc6-9cd2c79e6fe6.png)
